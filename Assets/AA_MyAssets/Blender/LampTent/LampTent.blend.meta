@@ -1,0 +1,197 @@
+fileFormatVersion: 2
+guid: b2a95941356f9284681f50f1decd8e0d
+timeCreated: 1528984964
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: BezierCircle
+    100002: BezierCircle_001
+    100004: BezierCircle_002
+    100006: BezierCircle_003
+    100008: BezierCircle_004
+    100010: BezierCircle_005
+    100012: BezierCircle_006
+    100014: BezierCircle_007
+    100016: BezierCircle_008
+    100018: Cylinder
+    100020: //RootNode
+    100022: NurbsPath
+    100024: NurbsPath_001
+    100026: NurbsPath_002
+    100028: NurbsPath_003
+    100030: NurbsPath_004
+    100032: NurbsPath_005
+    100034: NurbsPath_006
+    100036: NurbsPath_007
+    100038: NurbsPath_009
+    100040: Sphere
+    100042: Torus_002
+    400000: BezierCircle
+    400002: BezierCircle_001
+    400004: BezierCircle_002
+    400006: BezierCircle_003
+    400008: BezierCircle_004
+    400010: BezierCircle_005
+    400012: BezierCircle_006
+    400014: BezierCircle_007
+    400016: BezierCircle_008
+    400018: Cylinder
+    400020: //RootNode
+    400022: NurbsPath
+    400024: NurbsPath_001
+    400026: NurbsPath_002
+    400028: NurbsPath_003
+    400030: NurbsPath_004
+    400032: NurbsPath_005
+    400034: NurbsPath_006
+    400036: NurbsPath_007
+    400038: NurbsPath_009
+    400040: Sphere
+    400042: Torus_002
+    2100000: unnamed
+    2300000: BezierCircle
+    2300002: BezierCircle_001
+    2300004: BezierCircle_002
+    2300006: BezierCircle_003
+    2300008: BezierCircle_004
+    2300010: BezierCircle_005
+    2300012: BezierCircle_006
+    2300014: BezierCircle_007
+    2300016: BezierCircle_008
+    2300018: Cylinder
+    2300020: NurbsPath
+    2300022: NurbsPath_001
+    2300024: NurbsPath_002
+    2300026: NurbsPath_003
+    2300028: NurbsPath_004
+    2300030: NurbsPath_005
+    2300032: NurbsPath_006
+    2300034: NurbsPath_007
+    2300036: NurbsPath_009
+    2300038: Sphere
+    2300040: Torus_002
+    3300000: BezierCircle
+    3300002: BezierCircle_001
+    3300004: BezierCircle_002
+    3300006: BezierCircle_003
+    3300008: BezierCircle_004
+    3300010: BezierCircle_005
+    3300012: BezierCircle_006
+    3300014: BezierCircle_007
+    3300016: BezierCircle_008
+    3300018: Cylinder
+    3300020: NurbsPath
+    3300022: NurbsPath_001
+    3300024: NurbsPath_002
+    3300026: NurbsPath_003
+    3300028: NurbsPath_004
+    3300030: NurbsPath_005
+    3300032: NurbsPath_006
+    3300034: NurbsPath_007
+    3300036: NurbsPath_009
+    3300038: Sphere
+    3300040: Torus_002
+    4300000: Cylinder
+    4300002: BezierCircle
+    4300004: NurbsPath
+    4300006: Torus_002
+    4300008: Sphere
+    4300010: BezierCircle_001
+    4300012: NurbsPath_004
+    4300014: NurbsPath_001
+    4300016: BezierCircle_002
+    4300018: NurbsPath_002
+    4300020: BezierCircle_003
+    4300022: NurbsPath_003
+    4300024: BezierCircle_004
+    4300026: NurbsPath_005
+    4300028: BezierCircle_005
+    4300030: NurbsPath_006
+    4300032: BezierCircle_006
+    4300034: NurbsPath_007
+    4300036: BezierCircle_007
+    4300038: BezierCircle_008
+    4300040: NurbsPath_009
+    7400000: Default Take
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

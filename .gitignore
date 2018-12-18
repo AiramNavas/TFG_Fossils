@@ -1,0 +1,56 @@
+# =============== #
+# Unity generated #
+# =============== #
+Temp/
+Obj/
+UnityGenerated/
+Library/
+Assets/AssetStoreTools*
+
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+ExportedObj/
+*.svd
+*.userprefs
+*.csproj
+*.pidb
+*.suo
+*.sln
+*.user
+*.unityproj
+*.booproj
+
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+
+*.apk
+*.asset
+*.png
+*.mp3
+*.obj
+*.tga
+*.dae
+*.mtl
+*.bmp
+*.fbx
+*.mb
+*.psd
+*.max
+*.blend
+*.txt
+*.unity
+*.prefab
+*.bin
+*.log
+*.db
+*.info
